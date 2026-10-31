@@ -5,7 +5,7 @@
     "private": true,
 
     "dependencies": {
-        "connect": "1.8.x"
+        "connect": "3.7.x"
     },
 
     "plugin": {
